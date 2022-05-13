@@ -1,0 +1,12 @@
+{
+    "data": [
+        {
+            "uri": "/",
+            "text": "Home"
+        },
+        {
+            "uri": "/about",
+            "text": "About"
+        }
+    ]
+}
